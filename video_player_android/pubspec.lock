@@ -229,9 +229,11 @@ packages:
   video_player_platform_interface:
     dependency: "direct main"
     description:
-      name: video_player_platform_interface
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: video_player_platform_interface
+      ref: HEAD
+      resolved-ref: "4871f8d8179f8c0ce8c0a9e8e5d1ae41e4ca8b52"
+      url: "https://github.com/ManasMalla/video_player"
+    source: git
     version: "6.0.1"
   watcher:
     dependency: transitive

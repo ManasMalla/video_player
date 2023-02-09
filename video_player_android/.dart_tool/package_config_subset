@@ -2,6 +2,10 @@ video_player_android
 2.14
 file:///Users/ramaraomalla/ShyamKaroake/plugins/packages/video_player/video_player_android/
 file:///Users/ramaraomalla/ShyamKaroake/plugins/packages/video_player/video_player_android/lib/
+video_player_platform_interface
+2.12
+file:///Users/ramaraomalla/flutter/.pub-cache/git/video_player-4871f8d8179f8c0ce8c0a9e8e5d1ae41e4ca8b52/video_player_platform_interface/
+file:///Users/ramaraomalla/flutter/.pub-cache/git/video_player-4871f8d8179f8c0ce8c0a9e8e5d1ae41e4ca8b52/video_player_platform_interface/lib/
 _fe_analyzer_shared
 2.12
 file:///Users/ramaraomalla/flutter/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-31.0.0/
@@ -122,10 +126,6 @@ vector_math
 2.14
 file:///Users/ramaraomalla/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.2/
 file:///Users/ramaraomalla/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.2/lib/
-video_player_platform_interface
-2.12
-file:///Users/ramaraomalla/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-6.0.1/
-file:///Users/ramaraomalla/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-6.0.1/lib/
 watcher
 2.14
 file:///Users/ramaraomalla/flutter/.pub-cache/hosted/pub.dartlang.org/watcher-1.0.2/
